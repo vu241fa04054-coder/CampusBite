@@ -1,0 +1,41 @@
+.pickup-box {
+  background: white;
+  padding: 22px;
+  margin-top: 22px;
+  border-radius: 12px;
+  box-shadow: 0 3px 12px rgba(0,0,0,0.05);
+}
+
+.pickup-box h3 {
+  color: #e85d24;
+  margin-bottom: 10px;
+}
+
+.pickup-box p {
+  color: #777;
+  margin-bottom: 14px;
+}
+
+.pickup-box input {
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 7px;
+  width: 180px;
+  background: white;
+}
+
+.ready-message {
+  color: #168348;
+  font-weight: bold;
+  background: #e9f8ef;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.collected-message {
+  color: #263b80;
+  font-weight: bold;
+  background: #edf1ff;
+  padding: 12px;
+  border-radius: 8px;
+}
